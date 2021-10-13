@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AronGibsonlab12ClassUML", "AronGibsonlab12ClassUML\AronGibsonlab12ClassUML.csproj", "{9FFA0EF0-E88F-40F6-A0E9-F9407077D2BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FFA0EF0-E88F-40F6-A0E9-F9407077D2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFA0EF0-E88F-40F6-A0E9-F9407077D2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFA0EF0-E88F-40F6-A0E9-F9407077D2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFA0EF0-E88F-40F6-A0E9-F9407077D2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2BDE7E-F9DC-414F-953A-9F5D35FAE19F}
+	EndGlobalSection
+EndGlobal

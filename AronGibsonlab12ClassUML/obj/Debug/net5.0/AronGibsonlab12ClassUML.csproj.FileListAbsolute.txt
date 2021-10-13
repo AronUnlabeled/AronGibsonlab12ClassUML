@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\bin\Debug\net5.0\AronGibsonlab12ClassUML.exe
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\bin\Debug\net5.0\AronGibsonlab12ClassUML.deps.json
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\bin\Debug\net5.0\AronGibsonlab12ClassUML.runtimeconfig.json
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\bin\Debug\net5.0\AronGibsonlab12ClassUML.runtimeconfig.dev.json
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\bin\Debug\net5.0\AronGibsonlab12ClassUML.dll
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\bin\Debug\net5.0\ref\AronGibsonlab12ClassUML.dll
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\bin\Debug\net5.0\AronGibsonlab12ClassUML.pdb
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\obj\Debug\net5.0\AronGibsonlab12ClassUML.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\obj\Debug\net5.0\AronGibsonlab12ClassUML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\obj\Debug\net5.0\AronGibsonlab12ClassUML.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\obj\Debug\net5.0\AronGibsonlab12ClassUML.AssemblyInfo.cs
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\obj\Debug\net5.0\AronGibsonlab12ClassUML.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\obj\Debug\net5.0\AronGibsonlab12ClassUML.dll
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\obj\Debug\net5.0\ref\AronGibsonlab12ClassUML.dll
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\obj\Debug\net5.0\AronGibsonlab12ClassUML.pdb
+C:\Users\aron\source\repos\AronGibsonlab12ClassUML\AronGibsonlab12ClassUML\obj\Debug\net5.0\AronGibsonlab12ClassUML.genruntimeconfig.cache
