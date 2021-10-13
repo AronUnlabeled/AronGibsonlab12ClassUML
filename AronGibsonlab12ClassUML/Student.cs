@@ -8,15 +8,15 @@ namespace AronGibsonlab12ClassUML
 {
     class Student : Person
     {
-        public string program { get; set; }
-        public int year { get; set; }
-        public double fee { get; set; }
+        public string Program { get; set; }
+        public int Year { get; set; }
+        public double Fee { get; set; }
 
-        public Student(string name, string address, string program, int year, double fee ):base(name, address) 
+        public Student(string Name, string Address, string Program, int Year, double Fee ):base(Name, Address) 
         {
-            this.program = program;
-            this.year = year;
-            this.fee = fee;
+            this.Program = Program;
+            this.Year = Year;
+            this.Fee = Fee;
         }
 
         public Student() : base() { 
@@ -25,7 +25,7 @@ namespace AronGibsonlab12ClassUML
 
         public override string ToString()
         {
-            return base.ToString() + $" Program: {program} Year: {year} Fee: {fee}";
+            return base.ToString() + $" Program: {Program} Year: {Year} Fee: {Fee}";
         }
     }
 }

@@ -8,11 +8,11 @@ namespace AronGibsonlab12ClassUML
 {
     class Person
     {
-        public string name { set; get; }
-        public string address { set; get; }
-        public Person(string name, string address) {
-            this.name = name;
-            this.address = address;
+        public string Name { set; get; }
+        public string Address { set; get; }
+        public Person(string Name, string Address) {
+            this.Name = Name;
+            this.Address = Address;
         }
         public Person() 
         { 
@@ -21,7 +21,7 @@ namespace AronGibsonlab12ClassUML
 
         public override string ToString()
         {
-            return $"name: {name} address: {address}";
+            return $"name: {Name} address: {Address}";
         }
     }
 }

@@ -8,13 +8,13 @@ namespace AronGibsonlab12ClassUML
 {
     class Staff : Person
     {
-        public string school { get; set; }
-        public double pay { get; set; }
+        public string School { get; set; }
+        public double Pay { get; set; }
 
-        public Staff(string name,string address,string school, double pay):base(name, address) 
+        public Staff(string Name,string Address,string School, double Pay):base(Name, Address) 
         {
-            this.school = school;
-            this.pay = pay;
+            this.School = School;
+            this.Pay = Pay;
         }
 
         public Staff() : base() 
@@ -24,7 +24,7 @@ namespace AronGibsonlab12ClassUML
 
         public override string ToString()
         {
-            return base.ToString()+$" School: {school} pay: {pay}" ;
+            return base.ToString()+$" School: {School} pay: {Pay}" ;
         }
 
 
